@@ -1,7 +1,21 @@
+/**************************************************
+*
+* Author: Rafał AKA rafskii
+* CSS for beginners from youtube.com
+*
+**************************************************/
 
+
+/*comments Style all P tags*/
 p {
     font-size: 18px;
     color: blue;
 }
 
+#header p {
+    font-size:24px;
+}
 
+h1 {
+    font-size:44px;
+}
