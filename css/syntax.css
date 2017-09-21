@@ -5,17 +5,16 @@
 *
 **************************************************/
 
+/*TARGETING*/
 
-/*comments Style all P tags*/
-p {
-    font-size: 18px;
-    color: blue;
+a {
+    color: crimson;
+    text-decoration: none;
+    font-weight:bold;
 }
 
-#header p {
-    font-size:24px;
-}
-
-h1 {
-    font-size:44px;
+a:hover {
+    color: darksalmon;
+    text-decoration: underline;
+    letter-spacing: 10px;
 }
